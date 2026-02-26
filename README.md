@@ -1,17 +1,14 @@
 # Mariam Hassan
 
-AI Researcher | DeepMind Scholar | Foundation Models, Multimodal AI, and Mechanistic Interpretability
+AI Researcher | DeepMind Scholar | Foundation Models, Multimodal AI, and AI for Science
 
 ## About
-AI researcher and DeepMind Scholar with experience in foundation models, LLMs, and multimodal learning. Completed an MSc in Artificial Intelligence for Biomedicine and Healthcare at UCL with Distinction. I build and adapt generative and multimodal model architectures for large, complex biomedical data, optimize LLM components, and work on automated mechanistic interpretability and AI safety-aligned research workflows.
+AI researcher and DeepMind Scholar with experience in foundation models, LLMs, and multimodal learning. Completed an MSc in Artificial Intelligence for Biomedicine and Healthcare at UCL with Distinction. I build and adapt generative and multimodal model architectures for large, complex biomedical data and optimize LLM components for real-world scientific and healthcare applications.
 
-## Current Focus
-- AutoMechInterp: A deterministic stage-gate benchmark for mechanistic-interpretability claims.
-- Mechanistic interpretability research agent for reproducible experimentation and evaluation workflows.
-
-## Featured Project
-- Website: https://fcistud.github.io/mechanistic-interpretability/
-- Repository: https://github.com/fcistud/mechanistic-interpretability
+## What I'm Building
+- AI Meeting-to-Execution Autopilot: Agentic prototype for transcription, task extraction, and execution tracking. Ranked #1 London and Top 5 Global in Cactus x Google DeepMind Hackathon.
+- Biologically-Constrained Spatial Transcriptomics Framework: Developed a biologically-constrained LUPI framework with multi-objective optimization and strong biological validation for H&E-to-transcriptomics generation.
+- Low-Resource Tokenization Benchmarking: Built embedding-aware tokenization extensions and benchmarking pipelines for morphologically complex languages, reducing Arabic OOV rates by 17.4%.
 
 ## Research Interests
 - AI safety
