@@ -6,6 +6,6 @@ AI Researcher and DeepMind Scholar interested in AI safety, AI alignment automat
 [Website](https://fcistud.github.io) | [LinkedIn](https://www.linkedin.com/in/mariam-ihab-mohammed/) | [GitHub](https://github.com/fcistud) | [Email](mailto:mariam.ihab.mo@gmail.com)
 
 ## Current Focus
+- Reliable evaluation workflows for high-stakes AI research.
 - Biologically constrained learning for spatial transcriptomics generation from histopathology.
 - Low-resource tokenization and LLM efficiency for morphologically rich languages.
-- Reliable evaluation workflows for high-stakes AI research.
