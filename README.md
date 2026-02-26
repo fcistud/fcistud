@@ -6,9 +6,9 @@ AI Researcher | DeepMind Scholar | Foundation Models, Multimodal AI, and AI for 
 AI researcher and DeepMind Scholar with experience in foundation models, LLMs, and multimodal learning. Completed an MSc in Artificial Intelligence for Biomedicine and Healthcare at UCL with Distinction. I build and adapt generative and multimodal model architectures for large, complex biomedical data and optimize LLM components for real-world scientific and healthcare applications.
 
 ## What I'm Building
-- AI Meeting-to-Execution Autopilot: Agentic prototype for transcription, task extraction, and execution tracking. Ranked #1 London and Top 5 Global in Cactus x Google DeepMind Hackathon.
 - Biologically-Constrained Spatial Transcriptomics Framework: Developed a biologically-constrained LUPI framework with multi-objective optimization and strong biological validation for H&E-to-transcriptomics generation.
 - Low-Resource Tokenization Benchmarking: Built embedding-aware tokenization extensions and benchmarking pipelines for morphologically complex languages, reducing Arabic OOV rates by 17.4%.
+- Dynamic Vehicle Routing Research System: Developed a hybrid fuzzy receding horizon and genetic algorithm approach for dynamic assignment and routing under real-time uncertainty.
 
 ## Research Interests
 - AI safety
